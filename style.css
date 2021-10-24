@@ -1,4 +1,11 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    text-align: left;
+}
+
 body {
-    background: lightgrey;
+    background:#F5CBA7;
     text-align: center;
   }
